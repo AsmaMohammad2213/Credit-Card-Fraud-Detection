@@ -7,6 +7,8 @@ Continuous monitoring and updates ensure the model remains adaptive to new fraud
 Reduced financial losses due to fraud by promptly detecting and blocking fraudulent transactions.
 Enhanced customer trust and satisfaction through improved security measures.
 Compliance with regulatory requirements and standards for financial transaction security.
+Dataset link: https://www.kaggle.com/datasets/nelgiriyewithana/credit-card-fraud-detection-dataset-2023/data
+
 
 
 
